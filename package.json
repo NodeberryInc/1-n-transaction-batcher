@@ -1,0 +1,9 @@
+{
+  "name": "1-n-transaction-batcher",
+  "devDependencies": {
+    "hardhat": "^2.2.1"
+  },
+  "license": "ISC",
+  "author": "Sujith Somraaj for Nodeberry",
+  "keywords": ["batcher","n-1 transaction batcher"]
+}
